@@ -1,9 +1,7 @@
 /*
 Oleg Kolesnikov
-CISP 400
-Assignment 2 : GPA Analysis
+GPA Analysis
 21SEP2019
-Professor: Caleb Fowler
 */
 
 #include <iostream>
